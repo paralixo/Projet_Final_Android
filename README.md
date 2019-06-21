@@ -1,6 +1,6 @@
 # Projet Final Android - Calendrier par Florian Lafuente
 
-Dans ce repository, vous trouverez l'archive du projet, et ce rendu.
+Dans ce repository, vous trouverez **l'archive du projet**, et ce rendu.
 
 ## Sommaire
 
